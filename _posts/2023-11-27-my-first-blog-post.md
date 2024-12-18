@@ -1,5 +1,0 @@
-﻿---
-layout: "post"
----
-
-Some Content
